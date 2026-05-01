@@ -7,3 +7,4 @@ build/
 .vscode/
 .venv/
 .venv39/
+kaggle/
